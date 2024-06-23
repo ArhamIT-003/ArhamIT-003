@@ -20,12 +20,8 @@ I'm always eager to collaborate on exciting projects. If you have an idea you'd 
 ## 📫 Let's Connect
 
 - **Email:** muhammadarham59@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL] 
-- **Portfolio:** [Your Portfolio Website URL]
-
-## 📊 GitHub Stats 
-
-[![Your GitHub Stats Image]](https://github.com/anuraghazra/github-readme-stats)
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-arham-khan-119bba215/
+- **Portfolio:** [[Your Portfolio Website URL]](https://arhamdev-portfolio.netlify.app/)
 
 ---
 
