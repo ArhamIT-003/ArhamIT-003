@@ -24,5 +24,3 @@ I'm always eager to collaborate on exciting projects. If you have an idea you'd 
 - **Portfolio:** [[My Portfolio Website URL]](https://arhamdev-portfolio.netlify.app/)
 
 ---
-
-**Note:** Feel free to customize the sections and add any relevant details you want to showcase.
