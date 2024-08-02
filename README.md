@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhamit-003" alt="arhamit-003" /></a> </p>
 
-- 🔭 I’m currently working on **Faceonyx-App**
+- 🔭 I’m currently working on **Faceonyx-App**, **Next-js Project Management**
 
 - 🌱 I’m currently learning **GraphQL, DSA**
 
