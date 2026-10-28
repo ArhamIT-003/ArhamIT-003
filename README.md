@@ -1,24 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently working on Web-Sockets, React Native Finance-App<br><br>🌱 I’m currently learning GraphQL, DSA<br><br>👨‍💻 All of my projects are available at https://github.com/ArhamIT-003<br><br>💬 About me Hi there! I'm Arham, a passionate Full Stack Developer specializing in the MERN (MongoDB, Express, React, Node.js) stack. I have been working in these from past two years which gained me good knowledge of there methodologies<br><br>📫 How to reach me muhammadarham59@gmail.com
+# Hi, I'm Muhammad Arham Khan
 
+**Full-Stack Software Engineer** · Next.js · Nest.js · TypeScript · Shopify App Developer
+📍 Karachi, Pakistan · 🌍 Open to remote roles worldwide
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-arham-khan-119bba215/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArhamIT-003&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArhamIT-003&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamIT-003&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArhamIT-003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build and ship production software. At [Mean3](https://apps.shopify.com/partners/mean3) I developed **12 of the 13 apps** in our public Shopify App Store portfolio, and I've worked on full-stack platforms such as [InteriorNet](https://www.interiornet.co.uk/), a UK interior-design marketplace.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArhamIT-003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛍️ Shopify apps I built (live on the Shopify App Store)
+
+| App | What it does |
+|---|---|
+| **Schedulify – Automate Sales** | Schedule and automate sale campaigns |
+| **OFS BackSort Product Manager** | Sort collections by product stock |
+| **PayFlow Payment Rules** | Hide, reorder and rename payment methods at checkout |
+| **SURB – Checkout Cues** | Checkout prompts that help shoppers buy with confidence |
+| **BarcHub – Easy Inventory** | Bulk inventory edits and imports |
+| **CSVGO Export Sheets** | Clean, flexible Excel exports of orders |
+| **PingMe Back In Stock** | Automated back-in-stock email alerts |
+| **Revuw** | Collect, moderate and display photo reviews |
+| **FraudBolt** | Block fraudulent checkouts and archive fake orders |
+| **Eocean** | Automated WhatsApp notifications for store orders |
+| **Corporate Employee Discount** | Employee discounts for corporate customers |
+| **UrbanPick – The City Selector PK** | Auto-updating delivery city selection for Pakistan checkout |
+
+👉 [See all apps on the Shopify App Store](https://apps.shopify.com/partners/mean3)
+
+---
+
+## 🌐 Platform work
+
+- **[InteriorNet](https://www.interiornet.co.uk/)**: UK marketplace connecting customers with vetted interior designers (designer matching, designer dashboard, video-call bookings). Next.js, Nest.js, PostgreSQL, deployed on DigitalOcean App Platform.
+
+---
+
+## 🧰 Tech stack
+
+**Frontend:** TypeScript · JavaScript · React · Next.js · Redux · Tailwind CSS · HTML5/CSS3
+**Backend:** Node.js · Nest.js · Express · REST APIs · GraphQL · RBAC/JWT
+**Shopify:** Remix · Liquid · GraphQL Admin API · App development
+**Databases:** PostgreSQL · MongoDB · Prisma · Firebase · Redis
+**DevOps:** Git · GitHub Actions (CI/CD) · DigitalOcean · AWS · Docker · n8n
+
+---
+
+## 📫 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-arham-119bba215/) · muhammadarham59@gmail.com
+
+> Most of my production code is private (employer and client work), so my live products above are the best proof of what I build.
